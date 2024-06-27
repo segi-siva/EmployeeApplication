@@ -18,5 +18,4 @@ public class CustomerServiceApplication {
 		System.out.println("Emplooyeee Application");
 
 	}
-
 }
