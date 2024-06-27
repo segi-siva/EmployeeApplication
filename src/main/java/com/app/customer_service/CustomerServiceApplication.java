@@ -16,5 +16,4 @@ public class CustomerServiceApplication {
 		SpringApplication.run(CustomerServiceApplication.class, args);
 		System.out.println("Emplooyeee Application");
 	}
-
 }
